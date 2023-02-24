@@ -1,0 +1,8 @@
+switchshow |grep Name
+errdump |grep "$(date '+%Y/%m/%d')"
+errdump |grep "$(date -d yesterday '+%Y/%m/%d')"
+echo "********************************************************************************"
+echo ""
+echo ""
+
+

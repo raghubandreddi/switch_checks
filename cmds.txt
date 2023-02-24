@@ -1,0 +1,43 @@
+switchshow |grep switchName:
+mapsdb --show all
+porterrshow|grep -v "0      0      0      0      0      0      0      0      0      0      0      0      0"
+echo "*****"
+echo ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

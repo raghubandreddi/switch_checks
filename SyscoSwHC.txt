@@ -1,0 +1,381 @@
+Switch Health Report                        Report time: 07/28/2014 02:17:33 PM
+Switch Name: 	SYYBLDSANSW7
+IP address:	10.220.40.14 
+SwitchState:	HEALTHY
+Duration:	2727:16
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+WWN servers monitor   	HEALTHY
+CP monitor            	HEALTHY
+Blades monitor        	HEALTHY
+Core Blades monitor	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 02:24:58 PM
+Switch Name: 	SYYBLDSANSW8
+IP address:	10.220.40.15 
+SwitchState:	HEALTHY
+Duration:	1658:07
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+WWN servers monitor   	HEALTHY
+CP monitor            	HEALTHY
+Blades monitor        	HEALTHY
+Core Blades monitor	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:26:37 PM
+Switch Name: 	SYYLEXSANSW5
+IP address:	10.201.40.14 
+SwitchState:	HEALTHY
+Duration:	3062:40
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+WWN servers monitor   	HEALTHY
+CP monitor            	HEALTHY
+Blades monitor        	HEALTHY
+Core Blades monitor	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:29:29 PM
+Switch Name: 	SYYLEXSANSW6
+IP address:	10.201.40.15 
+SwitchState:	HEALTHY
+Duration:	2895:33
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+WWN servers monitor   	HEALTHY
+CP monitor            	HEALTHY
+Blades monitor        	HEALTHY
+Core Blades monitor	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 08:17:59 AM
+Switch Name: 	syypfb01san1
+IP address:	10.220.64.14 fd8c:215d:178e:c0de:227:f8ff:fe80:303d
+SwitchState:	HEALTHY
+Duration:	2729:07
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+Fabric Watch is not licensed
+Detailed port information is not included
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 08:25:27 AM
+Switch Name: 	syypfb01san2
+IP address:	10.220.64.15 fd8c:215d:178e:c0de:227:f8ff:fe80:227b
+SwitchState:	HEALTHY
+Duration:	2393:33
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+Fabric Watch is not licensed
+Detailed port information is not included
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:00:35 PM
+Switch Name: 	syypfb0102iom3
+IP address:	10.220.64.52 fd8c:215d:178e:c0de:227:f8ff:fe8f:bc1
+SwitchState:	HEALTHY
+Duration:	881:15
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:00:45 PM
+Switch Name: 	syypfb0102iom4
+IP address:	10.220.64.53 fd8c:215d:178e:c0de:227:f8ff:fe8f:e01
+SwitchState:	HEALTHY
+Duration:	884:16
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:00:58 PM
+Switch Name: 	syypfb0101iom3
+IP address:	10.220.64.24 fd8c:215d:178e:c0de:227:f8ff:fe08:2a59
+SwitchState:	HEALTHY
+Duration:	881:37
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:01:08 PM
+Switch Name: 	syypfb0101iom4
+IP address:	10.220.64.25 fd8c:215d:178e:c0de:205:33ff:fef3:56b9
+SwitchState:	HEALTHY
+Duration:	882:26
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:27:48 PM
+Switch Name: 	syypfl02san1
+IP address:	10.201.64.14 fd8c:215d:178e:c0de:227:f8ff:fe84:a7f8
+SwitchState:	HEALTHY
+Duration:	3063:59
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+Fabric Watch is not licensed
+Detailed port information is not included
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+ 13:    2.4m  19.7k   0      0      0      0      0      0      5      0      0      0      0      0      0      0      0      0   
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:01:26 PM
+Switch Name: 	syypfl0203iom4
+IP address:	10.201.64.82 fd8c:215d:178e:c0de:227:f8ff:fe8c:f52b
+SwitchState:	HEALTHY
+Duration:	1049:46
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:01:36 PM
+Switch Name: 	syypfl0201iom4
+IP address:	10.201.64.25 fd8c:215d:178e:c0de:227:f8ff:fe8e:9d92
+SwitchState:	HEALTHY
+Duration:	1048:52
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:01:45 PM
+Switch Name: 	syypfl0202iom4
+IP address:	10.201.64.53 fd8c:215d:178e:c0de:227:f8ff:fe8e:74a2
+SwitchState:	HEALTHY
+Duration:	1048:08
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 03:31:11 PM
+Switch Name: 	syypfl02san2
+IP address:	10.201.64.15 fd8c:215d:178e:c0de:227:f8ff:fe80:3025
+SwitchState:	HEALTHY
+Duration:	2896:54
+
+Power supplies monitor	HEALTHY
+Temperatures monitor  	HEALTHY
+Fans monitor          	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+Fabric Watch is not licensed
+Detailed port information is not included
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout    pcs
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx    err
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:02:03 PM
+Switch Name: 	syypfl0201iom3
+IP address:	10.201.64.24 fd8c:215d:178e:c0de:227:f8ff:fe8e:b730
+SwitchState:	HEALTHY
+Duration:	1046:58
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:02:13 PM
+Switch Name: 	syypfl0202iom3
+IP address:	10.201.64.52 fd8c:215d:178e:c0de:227:f8ff:fe8e:916a
+SwitchState:	HEALTHY
+Duration:	1046:40
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+
+Switch Health Report                        Report time: 07/28/2014 05:02:23 PM
+Switch Name: 	syypfl0203iom3
+IP address:	10.201.64.81 fd8c:215d:178e:c0de:227:f8ff:fe8c:d02a
+SwitchState:	HEALTHY
+Duration:	1046:18
+
+Temperatures monitor  	HEALTHY
+Flash monitor         	HEALTHY
+Marginal ports monitor	HEALTHY
+Faulty ports monitor  	HEALTHY
+Missing SFPs monitor  	HEALTHY
+Error ports monitor  	HEALTHY
+
+
+All ports are healthy
+          frames      enc    crc    crc    too    too    bad    enc   disc   link   loss   loss   frjt   fbsy  c3timeout
+       tx     rx      in    err    g_eof  shrt   long   eof     out   c3    fail    sync   sig                 tx    rx
+     ======================================================================================================================= 
+*****
+

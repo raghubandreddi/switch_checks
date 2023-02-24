@@ -1,0 +1,876 @@
+sa240sap100.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+	ssh public key: ssh-dss AAAAB3NzaC1kc3MAAACBAMrYUICJx9DvYomJKZXS1v2cGUTmSpJB7LHIkb0mZ2DqFVyuuxMbCTwpqC3gblv/x9bwgpfod+oQo2tpBk9lCjzYbNl2JT6uCfGj2quDxppP9oS85ObUF79HferWrWbQw4cDt0pqKCRFCbqxg0zQ8KEr0sYwg7vTCo2Jm14mUTtdAAAAFQCzrcKL/D90vVykGB5gvJUR9sxRQwAAAIBtVjrpt5gWFKoY9E+8oKXCwsnTggGHzz6XBsxq/IUyBKW5RFicp5ClFaruypdHOndK5ONJShYwUJi2w1YERWD3OKZulhXs8tWN2NNuliOZS3ZzGbGdsGO3d3VQBuHcF+CZwVNErRrJB1XtkReubmtpufcKPuZqQBRWwLNocv3FUwAAAIEAn49wAPk0CwSdSvweGmI9SAFW1TpyvRbuOJ+RPOFZWaaPsb7qnY+e4wjWyvw02NAHi26HmCB7YutYwsuWdxi/qD9iDLupE7H4S48+ZTB1GD1habfEjZbczurkgmarZ6ky9vn96OOoaZWKpVzih6v4wEv1PFXej1WHi6986+SztdU= root@js240ii
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:svc_addm
+	this user account has no expiry date
+	roles:network-operator 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap101.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+	ssh public key: ssh-dss AAAAB3NzaC1kc3MAAACBAMrYUICJx9DvYomJKZXS1v2cGUTmSpJB7LHIkb0mZ2DqFVyuuxMbCTwpqC3gblv/x9bwgpfod+oQo2tpBk9lCjzYbNl2JT6uCfGj2quDxppP9oS85ObUF79HferWrWbQw4cDt0pqKCRFCbqxg0zQ8KEr0sYwg7vTCo2Jm14mUTtdAAAAFQCzrcKL/D90vVykGB5gvJUR9sxRQwAAAIBtVjrpt5gWFKoY9E+8oKXCwsnTggGHzz6XBsxq/IUyBKW5RFicp5ClFaruypdHOndK5ONJShYwUJi2w1YERWD3OKZulhXs8tWN2NNuliOZS3ZzGbGdsGO3d3VQBuHcF+CZwVNErRrJB1XtkReubmtpufcKPuZqQBRWwLNocv3FUwAAAIEAn49wAPk0CwSdSvweGmI9SAFW1TpyvRbuOJ+RPOFZWaaPsb7qnY+e4wjWyvw02NAHi26HmCB7YutYwsuWdxi/qD9iDLupE7H4S48+ZTB1GD1habfEjZbczurkgmarZ6ky9vn96OOoaZWKpVzih6v4wEv1PFXej1WHi6986+SztdU= root@js240ii
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap102
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+	ssh public key: ssh-dss AAAAB3NzaC1kc3MAAACBAMrYUICJx9DvYomJKZXS1v2cGUTmSpJB7LHIkb0mZ2DqFVyuuxMbCTwpqC3gblv/x9bwgpfod+oQo2tpBk9lCjzYbNl2JT6uCfGj2quDxppP9oS85ObUF79HferWrWbQw4cDt0pqKCRFCbqxg0zQ8KEr0sYwg7vTCo2Jm14mUTtdAAAAFQCzrcKL/D90vVykGB5gvJUR9sxRQwAAAIBtVjrpt5gWFKoY9E+8oKXCwsnTggGHzz6XBsxq/IUyBKW5RFicp5ClFaruypdHOndK5ONJShYwUJi2w1YERWD3OKZulhXs8tWN2NNuliOZS3ZzGbGdsGO3d3VQBuHcF+CZwVNErRrJB1XtkReubmtpufcKPuZqQBRWwLNocv3FUwAAAIEAn49wAPk0CwSdSvweGmI9SAFW1TpyvRbuOJ+RPOFZWaaPsb7qnY+e4wjWyvw02NAHi26HmCB7YutYwsuWdxi/qD9iDLupE7H4S48+ZTB1GD1habfEjZbczurkgmarZ6ky9vn96OOoaZWKpVzih6v4wEv1PFXej1WHi6986+SztdU= root@js240ii
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap103
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+	ssh public key: ssh-dss AAAAB3NzaC1kc3MAAACBAMrYUICJx9DvYomJKZXS1v2cGUTmSpJB7LHIkb0mZ2DqFVyuuxMbCTwpqC3gblv/x9bwgpfod+oQo2tpBk9lCjzYbNl2JT6uCfGj2quDxppP9oS85ObUF79HferWrWbQw4cDt0pqKCRFCbqxg0zQ8KEr0sYwg7vTCo2Jm14mUTtdAAAAFQCzrcKL/D90vVykGB5gvJUR9sxRQwAAAIBtVjrpt5gWFKoY9E+8oKXCwsnTggGHzz6XBsxq/IUyBKW5RFicp5ClFaruypdHOndK5ONJShYwUJi2w1YERWD3OKZulhXs8tWN2NNuliOZS3ZzGbGdsGO3d3VQBuHcF+CZwVNErRrJB1XtkReubmtpufcKPuZqQBRWwLNocv3FUwAAAIEAn49wAPk0CwSdSvweGmI9SAFW1TpyvRbuOJ+RPOFZWaaPsb7qnY+e4wjWyvw02NAHi26HmCB7YutYwsuWdxi/qD9iDLupE7H4S48+ZTB1GD1habfEjZbczurkgmarZ6ky9vn96OOoaZWKpVzih6v4wEv1PFXej1WHi6986+SztdU= root@js240ii
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap03-BC1-SW1.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap04-BC1-SW2.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap05-BC2-SW1.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap06-BC2-SW2.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap07-BC3-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap08
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+	ssh public key: ssh-dss AAAAB3NzaC1kc3MAAACBAMrYUICJx9DvYomJKZXS1v2cGUTmSpJB7LHIkb0mZ2DqFVyuuxMbCTwpqC3gblv/x9bwgpfod+oQo2tpBk9lCjzYbNl2JT6uCfGj2quDxppP9oS85ObUF79HferWrWbQw4cDt0pqKCRFCbqxg0zQ8KEr0sYwg7vTCo2Jm14mUTtdAAAAFQCzrcKL/D90vVykGB5gvJUR9sxRQwAAAIBtVjrpt5gWFKoY9E+8oKXCwsnTggGHzz6XBsxq/IUyBKW5RFicp5ClFaruypdHOndK5ONJShYwUJi2w1YERWD3OKZulhXs8tWN2NNuliOZS3ZzGbGdsGO3d3VQBuHcF+CZwVNErRrJB1XtkReubmtpufcKPuZqQBRWwLNocv3FUwAAAIEAn49wAPk0CwSdSvweGmI9SAFW1TpyvRbuOJ+RPOFZWaaPsb7qnY+e4wjWyvw02NAHi26HmCB7YutYwsuWdxi/qD9iDLupE7H4S48+ZTB1GD1habfEjZbczurkgmarZ6ky9vn96OOoaZWKpVzih6v4wEv1PFXej1WHi6986+SztdU= root@js240ii
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap11-BC5-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap12-BC5-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-operator network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap13-BC6-SW1.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctrug247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctnxx247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap14-BC6-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctrug247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctnxx247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap15-BC7-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap16-BC7-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap17-BC8-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap18-BC8-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap19-BC9-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap20-BC9-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap21-BC10-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap22-BC10-SW2
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap23-BC11-SW1
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240sap24
+user:admin
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:USERID
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240win01.na.sysco.net
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240win02
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+sa240lgc01
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
+sa240lgc02
+user:admin
+	this user account has no expiry date
+	roles:network-admin 
+user:ctsik247
+	this user account has no expiry date
+	roles:network-admin 
+user:ctads247
+	this user account has no expiry date
+	roles:network-admin 
+user:tpcadmin
+	this user account has no expiry date
+	roles:network-admin 
+user:smen49b0
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:vkol46c7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:ksin08e7
+	this user account has no expiry date
+	roles:network-admin network-operator 
+user:rsam237u
+	this user account has no expiry date
+	roles:network-admin 
+user:mpul059x
+	this user account has no expiry date
+	roles:network-admin 
+user:powervc
+	this user account has no expiry date
+	roles:network-admin 
